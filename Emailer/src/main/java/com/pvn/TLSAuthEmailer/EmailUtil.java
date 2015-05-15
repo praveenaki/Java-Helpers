@@ -54,7 +54,7 @@ public class EmailUtil {
     }
     
     public static void sendEmailNow() {
-        final String fromEmail = "websitedesigner06@gmail.com"; //requires valid gmail id
+        final String fromEmail = "test@gmail.com"; //requires valid gmail id
         final String password = "********"; // correct password for gmail id
         final String toEmail = "praveen.akinapally@gmail.com"; // can be any email id 
          
